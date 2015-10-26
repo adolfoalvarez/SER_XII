@@ -1,10 +1,9 @@
 # SER_XII
-SER XII invited talk
 
 This is the repository for the talk "5 lessons I have learned at Analyx" which was part of the XII Spotkania Entuzjastów R (Warsaw R Users Group) meeting.
 
 You can see an online version of this presentation here:
-[bit.ly/SER_XII](http://bit.ly/SER_XII) This is an html presentation, so you can navigate it using the arrow keys
+[bit.ly/SER_XII](http://bit.ly/SER_XII). This is an html presentation, so you can navigate it using the arrow keys, or zoom in/out using your browser's shortcuts (Typically Ctrl+/-)
 
 The meeting was held on 22/10/2015 at 6 pm, Department of Mathematics, Warsaw University of Technology, Koszykowa 75 room 329.
 
